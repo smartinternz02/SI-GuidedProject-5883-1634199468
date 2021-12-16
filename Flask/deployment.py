@@ -3,7 +3,6 @@
 """
 Created on Fri Dec  3 15:04:28 2021
 
-@author: preethamdp
 """
 
 import requests
